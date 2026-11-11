@@ -1,0 +1,7 @@
+interface:
+  display_name: "Wenzi Voice"
+  short_description: "把真实观点写成自然、直接、有商业洞察的中文内容"
+  default_prompt: "Use $wenzi-voice to turn my raw Chinese notes into a publishable draft without inventing facts or using template-like phrasing."
+policy:
+  allow_implicit_invocation: true
+
